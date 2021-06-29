@@ -20,7 +20,7 @@ module.exports = {
         src: 'img/logo.svg',
       },
       items: [
-        {to: '/about', label: 'About', position: 'left'},
+        // {to: '/about', label: 'About', position: 'left'},
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           type: 'doc',
