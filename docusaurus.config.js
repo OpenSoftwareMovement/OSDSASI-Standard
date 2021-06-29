@@ -6,12 +6,12 @@ module.exports = {
   title: 'OpenSM',
   tagline: 'We craft the specifications of tomorrow\'s software systems',
   url: 'https://OpenSoftwareMovement.github.io',
-  baseUrl: '/OSDSASI-Standard/',
+  baseUrl: '/Standard/build/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.svg',
   organizationName: 'OpenSoftwareMovement', // Usually your GitHub org/user name.
-  projectName: 'OSDSASI-Standard', // Usually your repo name.
+  projectName: 'Standard', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Open Software Movement',
