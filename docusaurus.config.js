@@ -5,8 +5,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'OpenSM',
   tagline: 'We craft the specifications of tomorrow\'s software systems',
-  url: 'https://OpenSoftwareMovement.github.io',
-  baseUrl: '/Standard/build/',
+  url: 'https://opensoftwaremovement.github.io/',
+  baseUrl: '/standard/build/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.svg',
