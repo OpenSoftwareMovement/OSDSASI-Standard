@@ -1,0 +1,1 @@
+(self.webpackChunkblog=self.webpackChunkblog||[]).push([[57],{941:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/OSDSASI-Standard/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/OSDSASI-Standard/blog/tags/docusaurus"}')}}]);
